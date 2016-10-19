@@ -1,1 +1,3 @@
-# Bomberman.Highscore
+Bomberman Highscore
+
+Merlin / Philipp
